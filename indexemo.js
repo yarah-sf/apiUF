@@ -1,5 +1,5 @@
 import colecaoEmo from "./emocoes/emocoes.js";
-import express from 'express'
+import express from 'express';
 
 const app = express();
 
